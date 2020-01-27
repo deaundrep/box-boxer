@@ -3,4 +3,20 @@ div {
   width: 65px;
   height: 65px;
   background-clip: content-box;
+  margin: 20px;
+  border: 2px solid black;
+
+}
+
+#getg {
+  padding: 20px;
+}
+#a1 {
+  padding: 50px 100px;
+}
+#b2 {
+  padding: 25px 25px 50px 25px;
+}
+#c3 {
+  padding: 20px 100px 40px 150px;
 }
